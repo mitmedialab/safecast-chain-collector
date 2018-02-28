@@ -1,0 +1,23 @@
+{
+  "name": "safecast-chain-collector",
+  "version": "1.0.1",
+  "description": "Script to post data from the Safecast network to Chain API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitmedialab/safecast-chain-collector.git"
+  },
+  "author": "Brian Mayton <bmayton@media.mit.edu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mitmedialab/safecast-chain-collector/issues"
+  },
+  "homepage": "https://github.com/mitmedialab/safecast-chain-collector#readme",
+  "dependencies": {
+    "chainclient": "^0.1.2",
+    "mqtt": "^2.15.3"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "mqttURL": "mqtt://test.mosquitto.org",
+    "mqttConfig": {
+        "username": "user",
+        "password": "password"
+    },
+    "chainURL": "https://chain-api.media.mit.edu/sites/1",
+    "chainConfig": {
+        "auth": {
+            "username": "user",
+            "password": "password"
+        }
+    }
+}
